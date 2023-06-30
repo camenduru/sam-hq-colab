@@ -29,7 +29,8 @@ We also support a hyper-paramter hq_token_only. False means use hq output to cor
 To achieve best visualization effect, for images contain multiple objects (like typical coco images), we suggest to set hq_token_only=False. For images contain single object, we suggest to set hq_token_only = True.
 
 ## Main Repo
-https://github.com/SysCV/sam-hq
+https://github.com/SysCV/sam-hq <br />
+https://huggingface.co/spaces/sam-hq-team/sam-hq/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2306.01567
