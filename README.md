@@ -35,3 +35,4 @@ https://github.com/SysCV/sam-hq
 https://arxiv.org/abs/2306.01567
 
 ## Output
+![Screenshot 2023-06-30 130347](https://github.com/camenduru/sam-hq-colab/assets/54370274/56424271-02c7-42cd-92b7-deb8ad148d30)
